@@ -1,0 +1,16 @@
+{
+    "name": "chenyh1987/composer",
+    "description": "composer test",
+    "type": "project",
+    "require": {
+        "workerman/workerman": "*"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "chenyh1987",
+            "email": "chen_bruce@sina.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
